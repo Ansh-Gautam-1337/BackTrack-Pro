@@ -63,10 +63,10 @@
 
 ## 🛠️ Installation
 
-> 💡 This tool is distributed as a **Windows `.exe` file** on the GitHub [Releases](https://github.com/your-repo/releases) page.
+> 💡 This tool is distributed as a **Windows `.exe` file** on the GitHub [Releases](https://github.com/Ansh-Gautam-1337/BackTrack-Pro/releases) page.
 
 ### ✅ To Run:
-1. Download the latest `.exe` from [Releases](https://github.com/your-repo/releases).
+1. Download the latest `.exe` from [Releases](https://github.com/Ansh-Gautam-1337/BackTrack-Pro/releases).
 2. Double-click to run — no installation required.
 
 ---
@@ -115,4 +115,4 @@ Special thanks to the open-source community and testers.
 ## 📩 Feedback & Issues
 
 Found a bug or have a feature request?  
-Raise an issue [here](https://github.com/your-repo/issues)
+Raise an issue [here](https://github.com/Ansh-Gautam-1337/BackTrack-Pro/issues)
