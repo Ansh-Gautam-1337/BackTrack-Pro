@@ -74,8 +74,8 @@
 ## 💾 Data Files
 
 BackTrack Pro uses two JSON files to persist data:
-- `backup_manager_logs.json`: Backup history
-- `backup_manager_hashes.json`: File hash metadata for change detection
+- `BackTrack-Pro_logs.json`: Backup history
+- `BackTrack-Pro_hashes.json`: File hash metadata for change detection
 
 These are stored in the user’s home directory (e.g., `C:\Users\YourName\`).
 
